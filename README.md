@@ -122,22 +122,6 @@ A full-stack cosmetics e-commerce platform, from product catalog to checkout.
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Faycal-Lahri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faycal-Lahri&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faycal-Lahri&theme=tokyo-night&hide_border=true" width="90%"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Faycal-Lahri&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</div>
-
-<br/>
 
 ## 📜 Certifications
 
