@@ -1,55 +1,79 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:0077B5&height=200&section=header&text=Faycal%20Lahri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Automation%20Engineer&descAlignY=55&descSize=18"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/faycal-lahri-335b28248/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35"/>
-  </a>
-  &nbsp;
-  <a href="mailto:faycallahri999@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35" height="35"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Faycal-Lahri&style=flat&color=0D1B2A&label=profile+views" height="28"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0077B5&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Faycal+Lahri+%F0%9F%91%8B;Full+Stack+Developer;AI+%26+Automation+Engineer;Engineering+Student+%40+IGA+Casablanca" alt="Typing SVG"/>
 
 <br/>
 
+<a href="https://www.linkedin.com/in/faycal-lahri-335b28248/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:faycallahri999@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Faycal-Lahri&style=for-the-badge&color=0D1B2A&label=PROFILE+VIEWS"/>
+
+</div>
+
+<br/>
+
+## 🧠 About Me
+
 ```yaml
-about_me:
-  name: "Faycal Lahri"
-  role: "Full Stack Developer & AI Engineer"
-  student: "2nd-year Engineering Student, Software Development & IT @ IGA Casablanca"
-  location: "Casablanca, Morocco"
-  currently: "Interning at Eurafric Information (BMCE Bank Group) — backoffice console for OPV subscriptions"
-  previously: "DXC Technology — built an AI agent with N8N, LLMs & a Telegram bot"
-  focus: "Building at the intersection of web development and artificial intelligence"
+name: Faycal Lahri
+role: Full Stack Developer & AI Engineer
+student: 2nd-year Engineering Student, Software Development & IT @ IGA Casablanca
+location: Casablanca, Morocco
+currently: Interning @ Eurafric Information (BMCE Bank Group) — backoffice console for OPV subscriptions
+previously: DXC Technology — built an AI agent with N8N, LLMs & a Telegram bot
+looking_for: Internships & junior roles in Full Stack Development / AI Automation
+languages: French (native), Arabic (native), English (fluent)
 ```
+
+<br/>
+
+## 🎓 Education
+
+| Period | Program | School |
+|---|---|---|
+| 2025 – 2027 | Engineer's Degree, Software Engineering | IGA Casablanca |
+| 2024 – 2025 | Bachelor's Degree, Computer Systems Engineering | IGA Casablanca |
+| 2022 – 2024 | Integrated Preparatory Cycle, Information Technology | IGA Casablanca |
+
+<br/>
+
+## 💼 Experience Snapshot
+
+- 🏦 **Eurafric Information** *(2026 – Present)* — Software Engineer Intern, backoffice console for OPV subscriptions
+- 🤖 **DXC Technology** *(2025)* — AI & Automation Intern, built an intelligent agent with N8N + LLMs + Telegram Bot
+- 🖥️ **IGA Casablanca** *(2024)* — IT & Network Support Technician
+- 📋 **Digital Owner** *(2023)* — Project Coordinator, freelance
+- 🚀 **IGA CodeX** *(2024 – 2025)* — Founder & President, the school's official tech club
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="Tailwind" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="40" height="40"/>
-</p>
+**Frontend**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" height="38" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="38" height="38" title="Tailwind CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="38" height="38" title="Bootstrap"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" height="38" title="HTML5"/>
 
-**AI & Automation:** N8N · Gemini API · LLM Integration · Prompt Engineering · Intelligent Agents
+**Backend**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="38" height="38" title="Laravel"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="38" height="38" title="Spring Boot"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="38" height="38" title="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" height="38" title="Java"/>
+
+**Database & Mobile**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" height="38" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="38" height="38" title="Firebase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="38" height="38" title="Kotlin"/>
+
+**Tools**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" height="38" title="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="38" height="38" title="Jira"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="38" height="38" title="Notion"/>
+
+**AI & Automation:** ![N8N](https://img.shields.io/badge/-N8N-EA4B71?style=flat-square) ![Gemini](https://img.shields.io/badge/-Gemini_API-4285F4?style=flat-square) ![LLM](https://img.shields.io/badge/-LLM_Integration-412991?style=flat-square) ![Prompt](https://img.shields.io/badge/-Prompt_Engineering-000000?style=flat-square)
 
 <br/>
 
@@ -67,18 +91,18 @@ about_me:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faycal-Lahri&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faycal-Lahri&layout=compact&theme=default&hide_border=true" height="165"/>
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Faycal-Lahri&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faycal-Lahri&layout=compact&theme=default&hide_border=true" height="165"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faycal-Lahri&hide_border=true" height="165"/>
-</p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faycal-Lahri&theme=minimal&hide_border=true" width="90%"/>
+</div>
 
-<p align="center">
-  <img src="https://github.com/Faycal-Lahri/Faycal-Lahri/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Faycal-Lahri&theme=flat&no-frame=true&row=1&column=6"/>
+</div>
 
 <br/>
 
@@ -97,8 +121,22 @@ about_me:
 
 <br/>
 
-<p align="center">
-  <i>Open to opportunities — let's connect 🤝</i>
-</p>
+## 💬 A Bit More About Me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:0D1B2A&height=100&section=footer"/>
+- 🌱 Currently sharpening my skills in AI agent orchestration and system design
+- 🤝 Open to collaborating on full-stack or AI-automation projects
+- 🎯 Founded **IGA CodeX**, my school's tech club, and led workshops for 50+ students
+- ⚡ Fun fact: I use AI tools daily (Gemini CLI) as part of my own dev workflow, not just to build with AI but to build faster with it
+
+<br/>
+
+<div align="center">
+
+### 📬 Let's Connect
+
+<a href="https://www.linkedin.com/in/faycal-lahri-335b28248/"><img src="https://img.shields.io/badge/LinkedIn-Faycal_Lahri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:faycallahri999@gmail.com"><img src="https://img.shields.io/badge/Email-faycallahri999%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<i>Open to internships and junior full-stack / AI roles — let's talk 🤝</i>
+
+</div>
