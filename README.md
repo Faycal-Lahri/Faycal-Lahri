@@ -6,102 +6,135 @@
 
 <a href="https://www.linkedin.com/in/faycal-lahri-335b28248/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:faycallahri999@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Faycal-Lahri&style=for-the-badge&color=0D1B2A&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br/>
 
-## 🧠 About Me
+## 🧠 Who I Am
 
-```yaml
-name: Faycal Lahri
-role: Full Stack Developer & AI Engineer
-student: 2nd-year Engineering Student, Software Development & IT @ IGA Casablanca
-location: Casablanca, Morocco
-currently: Interning @ Eurafric Information (BMCE Bank Group) — backoffice console for OPV subscriptions
-previously: DXC Technology — built an AI agent with N8N, LLMs & a Telegram bot
-looking_for: Internships & junior roles in Full Stack Development / AI Automation
-languages: French (native), Arabic (native), English (fluent)
-```
+I'm a 2nd-year Engineering Student at **IGA Casablanca**, based in Casablanca, Morocco — and I build things that sit right at the edge of web development and AI.
+
+I like taking an idea from a blank page to something people actually click on: a clean interface on top, a solid backend underneath, and — whenever it makes sense — an AI agent quietly doing the boring work in between. I've built academic platforms, e-commerce sites, library systems, and automated workflows that connect chatbots to live databases. Right now I'm at **Eurafric Information** (BMCE Bank Group), working on a backoffice console for financial subscriptions — after previously deploying an AI agent at **DXC Technology** that automated an entire institution's student inquiries.
+
+I'm also the founder of **IGA CodeX**, my school's tech club, where I've run workshops to get other students excited about building things too.
+
+What keeps me hooked: shipping something real, then figuring out how to make it a little smarter.
 
 <br/>
 
-## 🎓 Education
+## 🚀 Projects I'm Proud Of
 
-| Period | Program | School |
-|---|---|---|
-| 2025 – 2027 | Engineer's Degree, Software Engineering | IGA Casablanca |
-| 2024 – 2025 | Bachelor's Degree, Computer Systems Engineering | IGA Casablanca |
-| 2022 – 2024 | Integrated Preparatory Cycle, Information Technology | IGA Casablanca |
+<table>
+<tr>
+<td width="50%">
 
-<br/>
+### 🎓 Scholar Network
+A LinkedIn-style social platform built exclusively for universities — students, teachers and researchers sharing academic work, publishing articles, and messaging in real time.
 
-## 💼 Experience Snapshot
+`React` `Laravel` `MySQL` `AI`
 
-- 🏦 **Eurafric Information** *(2026 – Present)* — Software Engineer Intern, backoffice console for OPV subscriptions
-- 🤖 **DXC Technology** *(2025)* — AI & Automation Intern, built an intelligent agent with N8N + LLMs + Telegram Bot
-- 🖥️ **IGA Casablanca** *(2024)* — IT & Network Support Technician
-- 📋 **Digital Owner** *(2023)* — Project Coordinator, freelance
-- 🚀 **IGA CodeX** *(2024 – 2025)* — Founder & President, the school's official tech club
+</td>
+<td width="50%">
+
+### 📚 Bibliothèque
+A library management system with real-time stock tracking, secure auth, and Google Books API integration for automatic catalog enrichment.
+
+`Spring Boot` `React` `OAuth2`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🇲🇦 Moroccan Heritage Platform
+An AI-powered tourism platform aligned with the Morocco 2030 vision, promoting local heritage through smart, automated content.
+
+`Laravel` `N8N` `Gemini API`
+
+</td>
+<td width="50%">
+
+### 🧑‍💼 Internship Manager
+A multi-role platform to track internships end-to-end, with automated follow-ups and an AI assistant guiding students through the process.
+
+`Laravel` `React` `N8N`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛍️ Magnolia E-Commerce
+A full-stack cosmetics e-commerce platform, from product catalog to checkout.
+
+`PHP` `MySQL` `Bootstrap`
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Frontend**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" height="38" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="38" height="38" title="Tailwind CSS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="38" height="38" title="Bootstrap"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" height="38" title="HTML5"/>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **Backend**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="38" height="38" title="Laravel"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="38" height="38" title="Spring Boot"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="38" height="38" title="PHP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" height="38" title="Java"/>
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Database & Mobile**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" height="38" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="38" height="38" title="Firebase"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="38" height="38" title="Kotlin"/>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+**AI & Automation**
+
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge)
 
 **Tools**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" height="38" title="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="38" height="38" title="Jira"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="38" height="38" title="Notion"/>
 
-**AI & Automation:** ![N8N](https://img.shields.io/badge/-N8N-EA4B71?style=flat-square) ![Gemini](https://img.shields.io/badge/-Gemini_API-4285F4?style=flat-square) ![LLM](https://img.shields.io/badge/-LLM_Integration-412991?style=flat-square) ![Prompt](https://img.shields.io/badge/-Prompt_Engineering-000000?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-<br/>
-
-## 🚀 Selected Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🎓 **Scholar Network** | LinkedIn-style academic social platform for universities | React · Laravel · MySQL · AI |
-| 📚 **Bibliothèque** | Library management system with real-time stock & Google Books API | Spring Boot · React · OAuth2 |
-| 🇲🇦 **Moroccan Heritage Platform** | AI-powered tourism platform aligned with Morocco 2030 vision | Laravel · N8N · Gemini API |
-| 🧑‍💼 **Internship Manager** | Multi-role internship tracking platform with an AI assistant | Laravel · React · N8N |
-| 🛍️ **Magnolia E-Commerce** | Full-stack cosmetics e-commerce platform | PHP · MySQL · Bootstrap |
+</div>
 
 <br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Faycal-Lahri&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faycal-Lahri&layout=compact&theme=default&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Faycal-Lahri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faycal-Lahri&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faycal-Lahri&theme=minimal&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faycal-Lahri&theme=tokyo-night&hide_border=true" width="90%"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Faycal-Lahri&theme=flat&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Faycal-Lahri&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </div>
 
 <br/>
@@ -118,15 +151,6 @@ languages: French (native), Arabic (native), English (fluent)
 ![GenAI](https://img.shields.io/badge/Career_Essentials_GenAI-Microsoft-0078D4?style=flat-square)
 ![IBM](https://img.shields.io/badge/Agile_Explorer-IBM-052FAD?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux_Unhatched-Cisco-1BA0D7?style=flat-square)
-
-<br/>
-
-## 💬 A Bit More About Me
-
-- 🌱 Currently sharpening my skills in AI agent orchestration and system design
-- 🤝 Open to collaborating on full-stack or AI-automation projects
-- 🎯 Founded **IGA CodeX**, my school's tech club, and led workshops for 50+ students
-- ⚡ Fun fact: I use AI tools daily (Gemini CLI) as part of my own dev workflow, not just to build with AI but to build faster with it
 
 <br/>
 
