@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A66C2,100:0B1F3A&section=header&text=Faycal%20Lahri&fontColor=ffffff&fontSize=56&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20%26%20Automation%20Engineer&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0A66C2,100:0B1F3A&section=header&text=Faycal%20Lahri&fontSize=50&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20AI%20and%20Automation&descSize=18&descAlignY=60" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=0A66C2&center=true&vCenter=true&width=640&lines=Engineering+student+%40+IGA+Casablanca;Building+at+the+edge+of+web+%26+AI;Backoffice+console+%40+Eurafric+Information;Founder+of+IGA+CodeX" alt="Typing SVG"/>
 
@@ -8,9 +8,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faycal-lahri-335b28248/)
 [![Email](https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:faycallahri999@gmail.com)
-![Location](https://img.shields.io/badge/Casablanca,_Morocco-1a1a1a?style=flat-square&logo=googlemaps&logoColor=white)
-![Status](https://img.shields.io/badge/Open_to-Internships_%26_Junior_Roles-0A66C2?style=flat-square)
-![Views](https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=1a1a1a&label=Profile+views)
+![Location](https://img.shields.io/badge/Location-Casablanca%2C_Morocco-1a1a1a?style=flat-square)
+![Status](https://img.shields.io/badge/Open_to-Internships_and_Junior_Roles-0A66C2?style=flat-square)
+![Views](https://komarev.com/ghpvc/?username=Faycal-Lahri&style=flat-square&color=1a1a1a&label=Profile+views)
 
 </div>
 
@@ -40,7 +40,7 @@ I love taking an idea from a blank page to something people actually use, then m
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 [Scholar Network](https://github.com/USERNAME/scholar-network)
+### 🎓 Scholar Network
 A LinkedIn-style social platform built for universities: students, teachers and researchers share academic work, publish articles and message in real time.
 
 <sub>`React` · `Laravel` · `MySQL` · `AI`</sub>
@@ -48,7 +48,7 @@ A LinkedIn-style social platform built for universities: students, teachers and 
 </td>
 <td width="50%" valign="top">
 
-### 📚 [Bibliothèque](https://github.com/USERNAME/bibliotheque)
+### 📚 Bibliothèque
 Library management system with real-time stock tracking, secure authentication and Google Books API integration for automatic catalog enrichment.
 
 <sub>`Spring Boot` · `React` · `OAuth2`</sub>
@@ -58,7 +58,7 @@ Library management system with real-time stock tracking, secure authentication a
 <tr>
 <td width="50%" valign="top">
 
-### 🇲🇦 [Moroccan Heritage Platform](https://github.com/USERNAME/moroccan-heritage)
+### 🇲🇦 Moroccan Heritage Platform
 AI-powered tourism platform aligned with the Morocco 2030 vision, promoting local heritage through smart, automated content.
 
 <sub>`Laravel` · `N8N` · `Gemini API`</sub>
@@ -66,7 +66,7 @@ AI-powered tourism platform aligned with the Morocco 2030 vision, promoting loca
 </td>
 <td width="50%" valign="top">
 
-### 🧑‍💼 [Internship Manager](https://github.com/USERNAME/internship-manager)
+### 🧑‍💼 Internship Manager
 Multi-role platform to track internships end to end, with automated follow-ups and an AI assistant guiding students through the process.
 
 <sub>`Laravel` · `React` · `N8N`</sub>
@@ -76,7 +76,7 @@ Multi-role platform to track internships end to end, with automated follow-ups a
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ [Magnolia E-Commerce](https://github.com/USERNAME/magnolia)
+### 🛍️ Magnolia E-Commerce
 Full-stack cosmetics e-commerce platform, from product catalog to checkout.
 
 <sub>`PHP` · `MySQL` · `Bootstrap`</sub>
@@ -84,7 +84,7 @@ Full-stack cosmetics e-commerce platform, from product catalog to checkout.
 </td>
 <td width="50%" valign="top">
 
-### 📂 [All repositories](https://github.com/USERNAME?tab=repositories)
+### 📂 [All repositories](https://github.com/Faycal-Lahri?tab=repositories)
 More projects, experiments and learning notes.
 
 <sub>`Explore →`</sub>
@@ -109,7 +109,7 @@ More projects, experiments and learning notes.
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM_Integration-412991?style=flat-square&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1a1a1a?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Skill-Prompt_Engineering-1a1a1a?style=flat-square)
 
 </td></tr>
 </table>
@@ -122,16 +122,12 @@ More projects, experiments and learning notes.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=0A66C2&icon_color=0A66C2&text_color=8b949e&border_radius=12"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=0A66C2&text_color=8b949e&border_radius=12"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Faycal-Lahri&show_icons=true&hide_border=true&theme=transparent&title_color=0A66C2&icon_color=0A66C2&text_color=8b949e&border_radius=12"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faycal-Lahri&layout=compact&hide_border=true&theme=transparent&title_color=0A66C2&text_color=8b949e&border_radius=12"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&hide_border=true&background=00000000&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&currStreakNum=8b949e&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" height="150"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&hide_border=true&bg_color=00000000&color=0A66C2&line=0A66C2&point=0A66C2&area=true&area_color=0A66C2" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faycal-Lahri&hide_border=true&bg_color=00000000&color=0A66C2&line=0A66C2&point=0A66C2&area=true&area_color=0A66C2" width="100%"/>
 
 </div>
 
@@ -169,7 +165,7 @@ More projects, experiments and learning notes.
 ### 📬 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faycal_Lahri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faycal-lahri-335b28248/)
-[![Email](https://img.shields.io/badge/faycallahri999@gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faycallahri999@gmail.com)
+[![Email](https://img.shields.io/badge/faycallahri999%40gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faycallahri999@gmail.com)
 
 <br/>
 
