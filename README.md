@@ -1,77 +1,93 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0077B5&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Faycal+Lahri+%F0%9F%91%8B;Full+Stack+Developer;AI+%26+Automation+Engineer;Engineering+Student+%40+IGA+Casablanca" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A66C2,100:0B1F3A&section=header&text=Faycal%20Lahri&fontColor=ffffff&fontSize=56&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20%26%20Automation%20Engineer&descAlignY=60&descSize=18" width="100%"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=0A66C2&center=true&vCenter=true&width=640&lines=Engineering+student+%40+IGA+Casablanca;Building+at+the+edge+of+web+%26+AI;Backoffice+console+%40+Eurafric+Information;Founder+of+IGA+CodeX" alt="Typing SVG"/>
 
-<a href="https://www.linkedin.com/in/faycal-lahri-335b28248/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:faycallahri999@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faycal-lahri-335b28248/)
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:faycallahri999@gmail.com)
+![Location](https://img.shields.io/badge/Casablanca,_Morocco-1a1a1a?style=flat-square&logo=googlemaps&logoColor=white)
+![Status](https://img.shields.io/badge/Open_to-Internships_%26_Junior_Roles-0A66C2?style=flat-square)
+![Views](https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=1a1a1a&label=Profile+views)
 
 </div>
 
 <br/>
 
-## 🧠 Who I Am
+## 👋 About me
 
-I'm a 2nd-year Engineering Student at **IGA Casablanca**, based in Casablanca, Morocco — and I build things that sit right at the edge of web development and AI.
+I'm a 2nd-year engineering student at **IGA Casablanca**. I build products where **web development meets AI**: a clean interface on top, a solid backend underneath, and an AI agent quietly handling the repetitive work in between.
 
-I like taking an idea from a blank page to something people actually click on: a clean interface on top, a solid backend underneath, and — whenever it makes sense — an AI agent quietly doing the boring work in between. I've built academic platforms, e-commerce sites, library systems, and automated workflows that connect chatbots to live databases. Right now I'm at **Eurafric Information** (BMCE Bank Group), working on a backoffice console for financial subscriptions — after previously deploying an AI agent at **DXC Technology** that automated an entire institution's student inquiries.
-
-I'm also the founder of **IGA CodeX**, my school's tech club, where I've run workshops to get other students excited about building things too.
-
-What keeps me hooked: shipping something real, then figuring out how to make it a little smarter.
+I love taking an idea from a blank page to something people actually use, then making it a little smarter.
 
 <br/>
 
-## 🚀 Projects I'm Proud Of
+## 💼 Experience & Involvement
+
+| | Role | What I did / do |
+|---|------|-----------------|
+| 🏦 | **Eurafric Information** (BMCE Bank Group)<br/><sub>Current</sub> | Building a backoffice console for financial subscriptions |
+| 🤖 | **DXC Technology**<br/><sub>Previous</sub> | Deployed an AI agent that automated an entire institution's student inquiries, connected to live databases |
+| 🚀 | **IGA CodeX**<br/><sub>Founder</sub> | Created my school's tech club and ran workshops to get students building |
+
+<br/>
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 Scholar Network
-A LinkedIn-style social platform built exclusively for universities — students, teachers and researchers sharing academic work, publishing articles, and messaging in real time.
+### 🎓 [Scholar Network](https://github.com/USERNAME/scholar-network)
+A LinkedIn-style social platform built for universities: students, teachers and researchers share academic work, publish articles and message in real time.
 
-`React` `Laravel` `MySQL` `AI`
-
-</td>
-<td width="50%">
-
-### 📚 Bibliothèque
-A library management system with real-time stock tracking, secure auth, and Google Books API integration for automatic catalog enrichment.
-
-`Spring Boot` `React` `OAuth2`
+<sub>`React` · `Laravel` · `MySQL` · `AI`</sub>
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🇲🇦 Moroccan Heritage Platform
-An AI-powered tourism platform aligned with the Morocco 2030 vision, promoting local heritage through smart, automated content.
+### 📚 [Bibliothèque](https://github.com/USERNAME/bibliotheque)
+Library management system with real-time stock tracking, secure authentication and Google Books API integration for automatic catalog enrichment.
 
-`Laravel` `N8N` `Gemini API`
-
-</td>
-<td width="50%">
-
-### 🧑‍💼 Internship Manager
-A multi-role platform to track internships end-to-end, with automated follow-ups and an AI assistant guiding students through the process.
-
-`Laravel` `React` `N8N`
+<sub>`Spring Boot` · `React` · `OAuth2`</sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛍️ Magnolia E-Commerce
-A full-stack cosmetics e-commerce platform, from product catalog to checkout.
+### 🇲🇦 [Moroccan Heritage Platform](https://github.com/USERNAME/moroccan-heritage)
+AI-powered tourism platform aligned with the Morocco 2030 vision, promoting local heritage through smart, automated content.
 
-`PHP` `MySQL` `Bootstrap`
+<sub>`Laravel` · `N8N` · `Gemini API`</sub>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+### 🧑‍💼 [Internship Manager](https://github.com/USERNAME/internship-manager)
+Multi-role platform to track internships end to end, with automated follow-ups and an AI assistant guiding students through the process.
+
+<sub>`Laravel` · `React` · `N8N`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ [Magnolia E-Commerce](https://github.com/USERNAME/magnolia)
+Full-stack cosmetics e-commerce platform, from product catalog to checkout.
+
+<sub>`PHP` · `MySQL` · `Bootstrap`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 📂 [All repositories](https://github.com/USERNAME?tab=repositories)
+More projects, experiments and learning notes.
+
+<sub>`Explore →`</sub>
 
 </td>
 </tr>
@@ -83,68 +99,82 @@ A full-stack cosmetics e-commerce platform, from product catalog to checkout.
 
 <div align="center">
 
-**Frontend**
+<table>
+<tr><td align="right"><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,bootstrap" alt="frontend"/></td></tr>
+<tr><td align="right"><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=laravel,spring,php,java" alt="backend"/></td></tr>
+<tr><td align="right"><b>Database & Mobile</b></td><td><img src="https://skillicons.dev/icons?i=mysql,firebase,kotlin" alt="db"/></td></tr>
+<tr><td align="right"><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,jira,notion" alt="tools"/></td></tr>
+<tr><td align="right"><b>AI & Automation</b></td><td>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_Integration-412991?style=flat-square&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1a1a1a?style=flat-square)
 
-**Backend**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Database & Mobile**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-**AI & Automation**
-
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+</td></tr>
+</table>
 
 </div>
 
 <br/>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=0A66C2&icon_color=0A66C2&text_color=8b949e&border_radius=12"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=0A66C2&text_color=8b949e&border_radius=12"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&hide_border=true&background=00000000&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&currStreakNum=8b949e&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" height="150"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&hide_border=true&bg_color=00000000&color=0A66C2&line=0A66C2&point=0A66C2&area=true&area_color=0A66C2" width="100%"/>
+
+</div>
+
+<br/>
 
 ## 📜 Certifications
+
+<div align="center">
 
 ![Claude 101](https://img.shields.io/badge/Claude_101-Anthropic-1a1a1a?style=flat-square)
 ![Claude Cowork](https://img.shields.io/badge/Claude_Cowork-Anthropic-1a1a1a?style=flat-square)
 ![AI Foundations](https://img.shields.io/badge/AI_Foundations-OpenAI-412991?style=flat-square)
 ![Ethical Hacker](https://img.shields.io/badge/Ethical_Hacker-Cisco-1BA0D7?style=flat-square)
 ![CCNA](https://img.shields.io/badge/CCNA_Networks-Cisco-1BA0D7?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux_Unhatched-Cisco-1BA0D7?style=flat-square)
 ![Google AI](https://img.shields.io/badge/AI_Essentials-Google-4285F4?style=flat-square)
 ![Prompting](https://img.shields.io/badge/Prompting_Essentials-Google-4285F4?style=flat-square)
 ![GenAI](https://img.shields.io/badge/Career_Essentials_GenAI-Microsoft-0078D4?style=flat-square)
 ![IBM](https://img.shields.io/badge/Agile_Explorer-IBM-052FAD?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux_Unhatched-Cisco-1BA0D7?style=flat-square)
+
+</div>
+
+<br/>
+
+## 🎯 Currently
+
+- 🔭 Building backoffice tools for financial services
+- 🧠 Going deeper into AI agents and workflow automation
+- 🌱 Learning: system design, testing, and clean architecture
 
 <br/>
 
 <div align="center">
 
-### 📬 Let's Connect
+### 📬 Let's connect
 
-<a href="https://www.linkedin.com/in/faycal-lahri-335b28248/"><img src="https://img.shields.io/badge/LinkedIn-Faycal_Lahri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:faycallahri999@gmail.com"><img src="https://img.shields.io/badge/Email-faycallahri999%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faycal_Lahri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faycal-lahri-335b28248/)
+[![Email](https://img.shields.io/badge/faycallahri999@gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faycallahri999@gmail.com)
 
-<i>Open to internships and junior full-stack / AI roles — let's talk 🤝</i>
+<br/>
+
+<i>Open to internships and junior full-stack / AI roles. Let's build something.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0B1F3A,100:0A66C2&section=footer" width="100%"/>
 
 </div>
